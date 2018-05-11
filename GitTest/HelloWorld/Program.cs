@@ -13,7 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Type your name?\n");
             string s = Console.ReadLine();
             Console.WriteLine(s+", hello :)");
-            
+            // added a comment here to check it works :)
         
             Console.ReadKey();
         }

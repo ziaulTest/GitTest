@@ -1,0 +1,7 @@
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ziaul.islam\source\repos\GitTest\HelloWorld\obj\Debug\HelloWorld.pdb
